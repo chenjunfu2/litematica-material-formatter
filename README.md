@@ -1,0 +1,2 @@
+# litematica-material-formatter
+Litematica材料列表转换器，将Litematica输出的material_list转换到更易读的形式并尽可能对齐输出
