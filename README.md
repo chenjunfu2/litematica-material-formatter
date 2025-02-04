@@ -9,6 +9,8 @@ Litematica材料列表转换器，将Litematica输出的material_list转换到�
 
 主打一个能用就行，比老版本多了个批量文件转换，和文件覆盖提示
 
+![转换示例](https://github.com/chenjunfu2/litematica-material-formatter/blob/main/%E8%BD%AC%E6%8D%A2%E7%A4%BA%E4%BE%8B.png)
+
 # 新版用法
 拖拽Litematica输出的material_list_xxx.txt文件（可以同时选择多个）到程序上松开即可自动转换，
 
