@@ -12,7 +12,15 @@ Litematica材料列表转换器，将Litematica输出的material_list转换到�
 
 如果目录下已有相同输出文件则会要求确认是否覆盖，y就是确认覆盖当前处理的文件，n就是不覆盖跳过当前处理的文件，a就是覆盖全部文件。
 
+转换示例（程序输出左 litematica导出右）：
 ![转换示例](https://github.com/chenjunfu2/litematica-material-formatter/blob/main/%E8%BD%AC%E6%8D%A2%E7%A4%BA%E4%BE%8B.png)
 
-# 老版用法
+覆盖提示：
+![覆盖提示](https://github.com/chenjunfu2/litematica-material-formatter/blob/main/%E8%A6%86%E7%9B%96%E6%8F%90%E7%A4%BA.png)
+
+# 旧版用法
 相比新版只能拖拽一个，输出没有对齐，覆盖无提示。
+
+与新版对比（旧版左 新版右）：
+![对比输出](https://github.com/chenjunfu2/litematica-material-formatter/blob/main/%E6%97%A7%E7%89%88%E8%BE%93%E5%87%BA%E4%B8%8E%E6%96%B0%E7%89%88%E8%BE%93%E5%87%BA.png)
+
