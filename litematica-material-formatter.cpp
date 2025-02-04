@@ -24,7 +24,7 @@ typedef struct level
 		struct
 		{
 			long lLargeChestShulkerBox;
-			long lSmallChestShulkerBox;
+			long lChestShulkerBox;
 			long lShulkerBox;
 			long lSetItem;
 			long lItem;
@@ -70,7 +70,7 @@ LEVEL CalculateLevels(long long number)
 	}
 	if (number >= ChestShulkerBoxItemCount)
 	{
-		level.lSmallChestShulkerBox = (number / ChestShulkerBoxItemCount) % (LargeChestCellCount / ChestCellCount);
+		level.lChestShulkerBox = (number / ChestShulkerBoxItemCount) % (LargeChestCellCount / ChestCellCount);
 	}
 	if (number >= ShulkerBoxItemCount)
 	{
